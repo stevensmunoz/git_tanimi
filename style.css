@@ -2126,11 +2126,11 @@ section.greyish {
 }
 
 .author:before {
-    content: '− ';
+    content: '** ';
 }
 
 .author:after {
-    content: ' -';
+    content: '**-';
 }
 
 
